@@ -1,4 +1,7 @@
-<form id="signup-form" method="post" action="#">
-  <input type="email" name="email" id="email" placeholder="Email Address" />
-  <input type="submit" value="Sign Up" />
+{% if site.signup_url %}
+<p>For inquiries, fill in your email address and click <strong>Send</strong>.</p>
+<form id="signup-form" method="post" action="{{ site.signup_url }}">
+  <input type="email" name="email" id="email" required="required" placeholder="Email Address" />
+  <input type="submit" value="Send" />
 </form>
+{% endif %}
