@@ -1,3 +1,5 @@
+---
+---
 /*
 	Eventually by HTML5 UP
 	html5up.net | @ajlkn
@@ -36,9 +38,15 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+              {% if site.background_images %}
+              {% for image in site.background_images %}
+              '{{ image.url }}': '{{ image.alignment }}',
+              {% endfor %}
+              {% else %}
               'assets/images/bg01.jpg': 'center',
 							'assets/images/bg02.jpg': 'center',
 							'assets/images/bg03.jpg': 'center'
+              {% endif %}
 					  },
 
 					// Delay.
