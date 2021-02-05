@@ -1,5 +1,8 @@
 {% if site.signup_url %}
-<p>For inquiries, fill in your email address and click <strong>Send</strong>.</p>
+<p>
+  For inquiries, fill in your email address.
+  欲收到更多訊息請留下您的信箱。
+</p>
 <form id="signup-form" method="post" action="{{ site.signup_url }}">
   <input type="email" name="email" id="email" required="required" placeholder="Email Address" />
   <input type="submit" value="Send" />
