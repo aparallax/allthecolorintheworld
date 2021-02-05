@@ -13,10 +13,13 @@ signup_url: https://formspree.io/f/mgepdday
 background_images:
   - url: assets/images/all-the-color_ol-1.jpeg
     alignment: center
+    alt: All the Color in the World
   - url: assets/images/all-the-color_ol-2.jpeg
     alignment: top
+    alt: 100,000,000 colors
   - url: assets/images/all-the-color_ol-3.jpeg
     alignment: center
+    alt: 39,500,000,000 NTD
 
 # Build settings
 plugins:
