@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<div class="posters">
+  {% for image in site.background_images %}
+  <div class="poster">
+    <a href="{{ image.url }}">
+      <img src="{{ image.url }}" alt="{{ image.alt }}" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
 <p class="deck">
   {{ site.description }}
 </p>
