@@ -1,6 +1,15 @@
 ---
 ---
 @import "main";
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+
+#header {
+  h1 {
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 5em;
+    margin: 0;
+  }
+}
 
 .deck {
   font-size: 1.35em;
