@@ -3,7 +3,7 @@ layout: page
 title: All the Color in the World
 ---
 
-Christopher Adams and Jun Yang and engaged in a long-term conversation on how an
+Christopher Adams and Jun Yang are engaged in a long-term conversation on how an
 artwork can exist within the digital realm. They are interested in the notion of
 the original, the edition, and the copy in terms of today's digital art
 production and reproduction.  ***All the Color in the World* debuts at MOCA
