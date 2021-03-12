@@ -1,3 +1,17 @@
 ---
 ---
 @import "main";
+
+.posters {
+  margin-left: -5px;
+  margin-right: -5px;
+  width: 100%;
+  display: flex;
+
+  .poster {
+    margin: 5px;
+    img {
+      width: 100%;
+    }
+  }
+}
