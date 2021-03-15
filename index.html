@@ -4,24 +4,14 @@ title: All the Color in the World 1-2-3
 opensea: https://opensea.io/collection/all-the-color-in-the-world-1-2-3
 ---
 <div class="posters">
+  {% for color in site.colors %}
   <div class="poster">
-    <a href="{% link colors/123/1.html %}">
-      <img src="/assets/images/preview-allthecolor-123-part-1.png" alt="All the Color in the World 1" />
-      <small>All The Color in the World 1</small>
+    <a href="{{ color.url }}">
+      <img src="{{ color.image }}" alt="{{ color.title }}" />
+      <small>{{ color.title }}</small>
     </a>
   </div>
-  <div class="poster">
-    <a href="{% link colors/123/2.html %}">
-      <img src="/assets/images/preview-allthecolor-123-part-2.png" alt="All the Color in the World 2" />
-      <small>All The Color in the World 2</small>
-    </a>
-  </div>
-  <div class="poster">
-    <a href="{% link colors/123/3.html %}">
-      <img src="/assets/images/preview-allthecolor-123-part-3.png" alt="All the Color in the World 3" />
-      <small>All The Color in the World 3</small>
-    </a>
-  </div>
+  {% endfor %}
 </div>
 
 <hr/>

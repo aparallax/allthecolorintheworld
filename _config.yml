@@ -11,6 +11,18 @@ twitter_url: https://twitter.com/christopheradam
 
 signup_url: https://formspree.io/f/mgepdday
 
+collections:
+  colors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "colors"
+    values:
+      layout: "123"
+      permalink: /colors/123/:name
+
 # Build settings
 plugins:
   - jekyll-feed
