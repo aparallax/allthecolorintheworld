@@ -30,6 +30,11 @@ input[type="submit"] {
   padding: 0 2.0rem;
   position: relative;
   width: 100%;
+
+  p,
+  form {
+    max-width: 60.0rem;
+  }
 }
 select {
   width: auto;
