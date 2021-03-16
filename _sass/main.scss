@@ -19,7 +19,8 @@ a {
   text-decoration: underline;
 }
 
-button {
+button,
+input[type="submit"] {
   background-color: $body-color;
   border-color: $body-color;
 }
