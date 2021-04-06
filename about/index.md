@@ -26,4 +26,4 @@ We'd only do this for *All the Color in the World*.
 [three NFTs]: {% link index.html %}
 [OpenSea]: https://opensea.io/collection/all-the-color-in-the-world-1-2-3
 [allthecolorintheworld.com]: https://www.allthecolorintheworld.com
-[public talk]: https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E3%80%90%E7%B3%BB%E5%88%97%E8%AC%9B%E5%BA%A7%E3%80%91%E4%B8%96%E7%95%8C%E6%89%80%E6%9C%89%E7%9A%84%E9%A1%8F%E8%89%B2]
+[public talk]: https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E3%80%90%E7%B3%BB%E5%88%97%E8%AC%9B%E5%BA%A7%E3%80%91%E4%B8%96%E7%95%8C%E6%89%80%E6%9C%89%E7%9A%84%E9%A1%8F%E8%89%B2
