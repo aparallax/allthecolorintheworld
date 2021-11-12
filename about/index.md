@@ -5,16 +5,16 @@ title: All the Color in the World
 
 ![Adams and Yang at MoCA Taipei](/assets/images/MoCA-Taipei_20210313_Adams-Yang_DSC06787.JPG)
 
-*All the Color in the World* was developed by Christopher Adams and Jun Yang for
-*[The Artist, his Collaborators, their Exhibition, and three Venues]*, which
-runs from 2021/02/06 to 2021/03/31 at [MoCA Taipei].
+*All the Color in the World* was developed by Christopher Adams and Jun
+Yang for *[The Artist, his Collaborators, their Exhibition, and three
+Venues]*, which runs from 6 February to 31 March 2021 at MoCA Taipei.
 
 *All the Color in the World* is:
 
 * A series of [three digital prints] (119×84 cm) exhibited at MoCA Taipei.
 * A series of [three NFTs] listed on OpenSea.
 * A website at [allthecolorintheworld.com].
-* A [public talk] by Adams and Yang at MoCA Taipei on 2021/03/13.
+* A [public talk] by Adams and Yang at MoCA Taipei on 13 March 2021.
 
 ![All the Color in the World at MoCA Taipei](/assets/images/MoCA-Taipei_20210315_Jun-Yang_2204_Small.jpg)
 
