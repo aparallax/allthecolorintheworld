@@ -26,3 +26,8 @@ defaults:
 # Build settings
 plugins:
   - jekyll-feed
+
+
+exclude:
+  - CNAME
+  - README.md
