@@ -14,7 +14,7 @@ Venues]*, which runs from 6 February to 31 March 2021 at MoCA Taipei.
 * A series of [three digital prints] (119×84 cm) exhibited at MoCA Taipei.
 * A series of [three NFTs] listed on OpenSea.
 * A website at [allthecolorintheworld.com].
-* A [public talk] by Adams and Yang at MoCA Taipei on 13 March 2021.
+* A [public talk] by Adams and Yang at MoCA Taipei on 13 March 2021. [YouTube].
 
 ![All the Color in the World at MoCA Taipei](/assets/images/MoCA-Taipei_20210315_Jun-Yang_2204_Small.jpg)
 
@@ -32,3 +32,4 @@ We'd only do this for *All the Color in the World*.
 [three NFTs]: https://opensea.io/collection/allthecolorintheworld?search[sortAscending]=false&search[sortBy]=PRICE
 [allthecolorintheworld.com]: https://www.allthecolorintheworld.com
 [public talk]: https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E3%80%90%E7%B3%BB%E5%88%97%E8%AC%9B%E5%BA%A7%E3%80%91%E4%B8%96%E7%95%8C%E6%89%80%E6%9C%89%E7%9A%84%E9%A1%8F%E8%89%B2
+[Youtube]: https://www.youtube.com/watch?v=q6OPjYBhqRk
