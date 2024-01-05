@@ -4,8 +4,6 @@
 
 **A limited edition by Christopher Adams and Jun Yang.** *The Artist, his Collaborators, their Exhibition, and three Venues* runs from 6 February to 31 March 2021 at [MOCA Taipei](https://www.mocataipei.org.tw/tw).
 
-[WWW.ALLTHECOLORINTHEWORLD.COM](https://www.allthecolorintheworld.com)
-
 ## Requirements
 
 * Ruby
