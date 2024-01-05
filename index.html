@@ -6,8 +6,8 @@ opensea: https://opensea.io/collection/allthecolorintheworld?search[sortAscendin
 <div class="posters">
   {% for color in site.colors %}
   <div class="poster">
-    <a href="{{ color.url }}">
-      <img src="{{ color.image }}" alt="{{ color.title }}" />
+    <a href="{{ color.url | relative_url }}">
+      <img src="{{ color.image | relative_url }}" alt="{{ color.title }}" />
       <small>{{ color.title }}</small>
     </a>
   </div>

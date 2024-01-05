@@ -3,7 +3,9 @@ layout: page
 title: All the Color in the World
 ---
 
-![Adams and Yang at MoCA Taipei](/assets/images/MoCA-Taipei_20210313_Adams-Yang_DSC06787.JPG)
+![Adams and Yang at MoCA Taipei]({{
+"/assets/images/MoCA-Taipei_20210313_Adams-Yang_DSC06787.JPG" |
+relative_url }})
 
 *All the Color in the World* was developed by Christopher Adams and Jun
 Yang for *[The Artist, his Collaborators, their Exhibition, and three
@@ -16,7 +18,9 @@ Venues]*, which runs from 6 February to 31 March 2021 at MoCA Taipei.
 * A website at [allthecolorintheworld.com].
 * A [public talk] by Adams and Yang at MoCA Taipei on 13 March 2021. [YouTube].
 
-![All the Color in the World at MoCA Taipei](/assets/images/MoCA-Taipei_20210315_Jun-Yang_2204_Small.jpg)
+![All the Color in the World at MoCA Taipei]({{
+"/assets/images/MoCA-Taipei_20210315_Jun-Yang_2204_Small.jpg" |
+relative_url }})
 
 Adams and Yang are engaged in a long-term conversation about the artist, the
 original, the edition, and the digital. Art history has taken us through
