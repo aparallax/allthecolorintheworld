@@ -3,10 +3,10 @@
     <nav role="navigation">
       <ul>
         <li>
-          <a href="{% link index.html %}">Home</a>
+          <a href="{{ "/" | relative_url }}">Home</a>
         </li>
         <li>
-          <a href="{% link about/index.md %}">About</a>
+          <a href="{{ "/about" | relative_url }}">About</a>
         </li>
       </ul>
     </nav>
