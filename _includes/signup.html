@@ -1,10 +1,5 @@
-{% if site.signup_url %}
+{% if site.email %}
 <p>
-  For inquiries, please leave your email address.<br/>
-  欲收到更多資訊請留下您的信箱。
+  For inquiries: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 </p>
-<form id="signup-form" method="post" action="{{ site.signup_url }}">
-  <input type="email" name="email" id="email" required="required" placeholder="Email Address" />
-  <input type="submit" value="Send" />
-</form>
 {% endif %}
