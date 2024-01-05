@@ -10,8 +10,6 @@ author: Christopher Adams and Jun Yang
 
 twitter_url: https://twitter.com/christopheradam
 
-signup_url: https://formspree.io/f/mgepdday
-
 collections:
   colors:
     output: true
